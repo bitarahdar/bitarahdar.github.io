@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+### رزومه
 
-You can use the [editor on GitHub](https://github.com/bitarahdar/bitaraahdar.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
++ Date
+  - 8/6/2020
 
-### Markdown
+### نکات برجسته مهارت
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+---
 
-```markdown
-Syntax highlighted code block
++ تسلط به افیس
++ مهارت در نقاشی و کار های هنری
 
-# Header 1
-## Header 2
-### Header 3
+### تجارب کاری
 
-- Bulleted
-- List
+---
 
-1. Numbered
-2. List
++ فعالیت در بازار یابی
++ تبلیغات اینترنتی
++ اپراتور
+  
+  
+### تحصیلات
 
-**Bold** and _Italic_ and `Code` text
+---
 
-[Link](url) and ![Image](src)
-```
++ کارشناسی مهندسی نرم افزار
+  - دانشگاه پیام نور البرز
+  - در حال تحصیل از سال 1397
+  
+  
+### Quera Profile Link
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+---
 
-### Jekyll Themes
++ https://quera.ir/profile/bitirhdr79
++ https://quera.ir/qcv/
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bitarahdar/bitaraahdar.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

@@ -1,3 +1,5 @@
+<img src="https://avatars0.githubusercontent.com/u/69293396?s=400&u=336fa52a06592cbf6e10e3cd4c54d89a412c2ddf&v=4">
+
 ### Resume
 
 ---

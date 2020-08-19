@@ -124,6 +124,7 @@
                 </span>
                 <span>وب سایت:</span>
                 <span>https://quera.ir/profile/bitirhdr79  https://github.com/bitarahdar  https://quera.ir/qcv/</span>
+                <span> https://github.com/bitarahdar</span>
             </div>
                 <div class="contact-item contact__city">
                 <span>

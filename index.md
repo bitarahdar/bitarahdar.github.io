@@ -1,8 +1,5 @@
 <html>
 <head>
-    
-
-    <base href="https://cvbuilder.me/">
 
 <meta charset="UTF-8">
 <meta name="viewport" content="width=1024">

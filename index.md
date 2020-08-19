@@ -1,5 +1,8 @@
 <html>
 <head>
+    
+
+    <base href="https://cvbuilder.me/">
 
 <meta charset="UTF-8">
 <meta name="viewport" content="width=1024">
@@ -51,15 +54,6 @@
 
 
     <link href="/css/credit-header.css?v=yBewTLTlJkh0hrt7naICLG_RJtVGBzrqbuDP-q0Iouc" rel="stylesheet" />
-        <header>
-            <a href="/">
-                <img src="/images/svg/mainLogo.svg" width="125" />
-            </a>
-        </header>
-
-
-
-
 
 <script>
     $(function () {
@@ -571,8 +565,7 @@
             </div>
         </div>
 
-    </div>
-
+   
 
     
 
@@ -676,12 +669,7 @@ $('<div data-count="' + (i + 1) + '" class="page-watermark">CVBUILDER.ME</div>')
     options.errorMessage = 'اشکال در ذخیره اطلاعات';
 </script>
 
-    <div class="footer">
-        ایجاد شده توسط
-        <a href="https://cvbuilder.me">
-            cvbuilder.me
-        </a>
-    </div>
+    
     <style>
         .container {
             box-shadow: 0 0 6px -2px #000;
@@ -715,3 +703,4 @@ $('<div data-count="' + (i + 1) + '" class="page-watermark">CVBUILDER.ME</div>')
 
 </body>
 </html>
+

@@ -125,6 +125,7 @@
                 <span>وب سایت:</span>
                 <span>https://quera.ir/profile/bitirhdr79    https://quera.ir/qcv/</span>
                 <span> https://github.com/bitarahdar</span>
+                <span>[Resume](/assessment/BR_CV_CheckList_AR_3983.pdf)
             </div>
                 <div class="contact-item contact__city">
                 <span>

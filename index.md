@@ -707,3 +707,4 @@ $('<div data-count="' + (i + 1) + '" class="page-watermark">CVBUILDER.ME</div>')
 </html>
 
 [Resume](/assessment/BR_CV_CheckList_AR_3983.pdf)
+

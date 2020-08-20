@@ -9,7 +9,7 @@
 <link rel="icon" type="image/png" href="/favicon-new.png">
 
     <title>رزومه بیتا راهدار </title>
-<meta name="description" content="خلاق،هنرمند،با استعداد،علامند به یادگیری و تجربه">
+<meta name="description" content="خلاق،هنرمند،با استعداد،علاقه مند به یادگیری و تجربه">
 
     <meta name="robots" content="noindex, nofollow">
 

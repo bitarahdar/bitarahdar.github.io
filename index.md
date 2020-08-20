@@ -547,6 +547,7 @@
                                             <li>اپراتور</li>
                                             <li>مدیریت سایت و فضای مجازی و تبلیغات در سایت و برنامه های مجازی</li>
                                 </ul>
+                                [resume](/assessment/BR_CV_CheckList_AR_3983.pdf)
                         </li>
             </ul>
         </div>
@@ -696,7 +697,7 @@ $('<div data-count="' + (i + 1) + '" class="page-watermark">CVBUILDER.ME</div>')
         gtag('config', 'UA-101108363-3');
     </script>
 
-[resume](/assessment/BR_CV_CheckList_AR_3983.pdf)
+
 
 </body>
 </html>

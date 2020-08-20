@@ -705,8 +705,5 @@ $('<div data-count="' + (i + 1) + '" class="page-watermark">CVBUILDER.ME</div>')
 
 </body>
 </html>
-### Resume Assessment
-
----
 
 [Resume](/assessment/BR_CV_CheckList_AR_3983.pdf)

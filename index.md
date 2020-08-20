@@ -464,9 +464,7 @@
                                 </label>
                                     <label dir="ltr"><a rel="nofollow noreferrer" class="social-link" href="https://instagram.com/b.t_painting.art" target="_blank">b.t_painting.art</a></label>
                                     
-                                    <label>resume</label>
-                                    [Resume](/assessment/BR_CV_CheckList_AR_3983.pdf)
-
+                                    
                             </span>
                         </li>
                 </ul>

@@ -556,15 +556,6 @@
 
 
 
- ### Resume Assessment
-
----
-
-
-[Resume](/assessment/BR_CV_CheckList_AR_3983.pdf)
-
-
-
 
 
 

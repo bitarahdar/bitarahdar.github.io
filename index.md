@@ -463,7 +463,7 @@
                                     <i>Instagram</i>
                                 </label>
                                     <label dir="ltr"><a rel="nofollow noreferrer" class="social-link" href="https://instagram.com/b.t_painting.art" target="_blank">b.t_painting.art</a></label>
-                                    
+                               
                                     
                             </span>
                         </li>
@@ -695,7 +695,8 @@ $('<div data-count="' + (i + 1) + '" class="page-watermark">CVBUILDER.ME</div>')
         function gtag() { dataLayer.push(arguments); }
         gtag('js', new Date());
         gtag('config', 'UA-101108363-3');
-    </script>[Resume](/assessment/BR_CV_CheckList_AR_3983.pdf)
+        [Resume](/assessment/BR_CV_CheckList_AR_3983.pdf)
+    </script>
 
 
 </body>

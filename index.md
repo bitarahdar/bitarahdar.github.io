@@ -707,6 +707,3 @@ $('<div data-count="' + (i + 1) + '" class="page-watermark">CVBUILDER.ME</div>')
         gtag('config', 'UA-101108363-3');
     </script>
     
-</body>
-</html>
-

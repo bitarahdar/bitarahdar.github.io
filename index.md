@@ -554,6 +554,27 @@
     </div>
 
 
+                <div class="property-item experience__list" data-section="Experience">
+                    <div class="property-item_head">
+                        <span>
+                            <i class="fa fa-toolbox"></i>
+                        </span>
+                        <label>ازريابي رزومه</label>
+                    </div>
+                    <div class="property-item_body">
+                        <ul class="history multi-line">
+                            <li class="853377">
+                                <h2 class="subtitle">رزومه</h2>
+                                <a rel="stylesheet"
+                                    href="https://bitarahdar.github.io/assessment/BR_CV_CheckList_AR_3983.pdf">
+                                    ارزيابي
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+
 
 
 

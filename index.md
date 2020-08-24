@@ -695,7 +695,6 @@ $('<div data-count="' + (i + 1) + '" class="page-watermark">CVBUILDER.ME</div>')
         function gtag() { dataLayer.push(arguments); }
         gtag('js', new Date());
         gtag('config', 'UA-101108363-3');
-        [Resume](/assessment/BR_CV_CheckList_AR_3983.pdf)
     </script>
 
 

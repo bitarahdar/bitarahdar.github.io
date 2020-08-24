@@ -473,10 +473,11 @@
                                     <i class="fab fa-instagram"></i>
                                     <i>رزومه</i>
                                 </label>
-                                <a rel="stylesheet"
-                                    href="https://bitarahdar.github.io/assessment/BR_CV_CheckList_AR_3983.pdf">
+                                <label dir="ltr">
+                                <a rel="nofollow noreferrer" class="social-link" href="https://bitarahdar.github.io/assessment/BR_CV_CheckList_AR_3983.pdf" target="_blank">
                                     ارزيابي رزومه
                                 </a>
+                                </label>
                             </span>
                         </li>
                 </ul>

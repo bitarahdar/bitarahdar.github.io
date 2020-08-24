@@ -707,11 +707,6 @@ $('<div data-count="' + (i + 1) + '" class="page-watermark">CVBUILDER.ME</div>')
         gtag('config', 'UA-101108363-3');
     </script>
     
-    <h1 class="not-drag">ازريابي رزومه</h1>
-    <a rel="stylesheet" href="/assessment/BR_CV_CheckList_AR_3983.pdf" >
-     ارزيابي
-    </a>
-
 </body>
 </html>
 

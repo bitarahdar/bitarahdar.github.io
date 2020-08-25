@@ -64,11 +64,6 @@ title: English Resume
   Rezvan Government School
   
 
-### Resume evaluation
-
----
-
-[Resume] (Evaluation / BR_CV_CheckList_AR_3983.pdf)
   
   
 ### Quera profile link

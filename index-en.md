@@ -1,5 +1,4 @@
 ---
-layout: ltr
 title: English Resume
 ---
 

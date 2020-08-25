@@ -52,6 +52,8 @@ layout:
         -o-text-size-adjust: none;
         -webkit-text-size-adjust: none;
     }
+    
+    .item-row.w0 li > span { height: inherit; }
 </style>
 
 

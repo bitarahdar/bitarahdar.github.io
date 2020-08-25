@@ -488,8 +488,8 @@
                                     <i>رزومه</i>
                                 </label>
                                 <label dir="ltr">
-                                <a rel="nofollow noreferrer" class="social-link" href="https://bitarahdar.github.io/assessment/BR_CV_CheckList_AR_3983_2.pdf" target="_blank">
-                                    2ارزيابي رزومه
+                                <a rel="nofollow noreferrer" class="social-link" href="https://bitarahdar.github.io/index-en.md" target="_blank">
+                                    رزومه انگلیسی
                                 </a>
                                 </label>
                             </span>

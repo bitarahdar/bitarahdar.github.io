@@ -128,8 +128,8 @@ layout:
                     <i class="fas fa-globe"></i>
                 </span>
                 <span>وب سایت:</span>
-                <label dir="ltr"><a rel="nofollow noreferrer" class="social-link" href="https://quera.ir/profile/bitirhdr79" target="_blank">ًQuera</a></label>
-                <label dir="ltr"><a rel="nofollow noreferrer" class="social-link" href="https://github.com/bitarahdar" target="_blank">ًGithub</a></label>
+                <label dir="ltr"><a rel="nofollow noreferrer" class="social-link" href="https://quera.ir/profile/bitirhdr79" target="_blank">Quera</a></label>
+                <label dir="ltr"><a rel="nofollow noreferrer" class="social-link" href="https://github.com/bitarahdar" target="_blank">Github</a></label>
              
             </div>
                 <div class="contact-item contact__city">

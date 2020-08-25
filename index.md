@@ -1,6 +1,3 @@
----
-layout: none
----
 <html>
 <head>
     

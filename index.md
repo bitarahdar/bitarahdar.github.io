@@ -53,7 +53,7 @@ layout:
         -webkit-text-size-adjust: none;
     }
     
-    .item-row.w0 li > span { height: inherit; }
+    .item-row.w0 li > span { height: 25px !important; height: 25px; }
 </style>
 
 
